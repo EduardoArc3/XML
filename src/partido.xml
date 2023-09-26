@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PartiditoDeFut>
+    <Fecha>2023-03-21</Fecha>
+    <Partido>
+        <EquiposDisputados>
+            <Equipo1>América</Equipo1>
+            <Equipo2>Guadalajara</Equipo2>
+        </EquiposDisputados>
+        <Alineaciones>
+            <Alineacion>
+                <Equipo>América</Equipo>
+                <Formacion>4-2-3-1</Formacion>
+                <Jugadores>
+                    <Jugador>Kevin Álvarez</Jugador>
+                    <Jugador>Ramón Juárez</Jugador><Jugador></Jugador>
+                    <Jugador>Leo Suárez</Jugador>
+                    <Jugador>Jonathan dos Santos</Jugador>
+                    <Jugador>Brian Rodríguez</Jugador>
+                    <Jugador>Diego Valdés</Jugador>
+                    <Jugador>Álex Zendejas</Jugador>
+                    <Jugador>Luis Fuentes</Jugador>
+                    <Jugador>Álvaro Fidalgo</Jugador>
+                    <Jugador>Igor Lichnovsky</Jugador>
+                    <Jugador>Emilio Lara</Jugador>
+                </Jugadores>
+            </Alineacion>
+            <Alineacion>
+                <Equipo>Guadalajara</Equipo>
+                <Formacion>4-3-3</Formacion>
+                <Jugadores>
+                    <Jugador>Roberto Alvarado</Jugador>
+                    <Jugador>Érick Gutiérrez</Jugador>
+                    <Jugador>Alexis Vega</Jugador>
+                    <Jugador>Cristian Calderón</Jugador>
+                    <Jugador>Jesús Sánchez</Jugador>
+                    <Jugador>Ricardo Marín</Jugador>
+                    <Jugador>Alan Mozo</Jugador>
+                    <Jugador>Fernando Beltrán</Jugador>
+                    <Jugador>Rubén González</Jugador>
+                    <Jugador>Ronaldo Cisneros</Jugador>
+                    <Jugador>Juan Brigido</Jugador>
+                    <Jugador>Yael Padilla</Jugador>
+                    <Jugador>Gilberto Sepúlveda</Jugador>
+                    <Jugador>Miguel Jiménez</Jugador>
+                    <Jugador>Roberto Alvarado</Jugador>
+                    <Jugador>Érick Gutiérrez</Jugador>
+                </Jugadores>
+            </Alineacion>
+        </Alineaciones>
+        <Marcador>4-0</Marcador>
+        <Goles>
+            <Gol>
+                <Jugador>Brian Rodríguez</Jugador>
+                <Minuto>21</Minuto>
+                <Equipo>América</Equipo>
+            </Gol>
+            <Gol>
+                <Jugador>Diego Valdés</Jugador>
+                <Minuto>37</Minuto>
+                <Equipo>América</Equipo>
+            </Gol>
+            <Gol>
+                <Jugador>Diego Valdés</Jugador>
+                <Minuto>65</Minuto>
+                <Equipo>América</Equipo>
+            </Gol>
+            <Gol>
+                <Jugador>Álex Zendejas</Jugador>
+                <Minuto>80</Minuto>
+                <Equipo>América</Equipo>
+            </Gol>
+        </Goles>
+        <Faltas>
+            <Falta>
+                <Minuto>3</Minuto>
+                <Equipo>América</Equipo>
+                <Jugador>Kevin Álvarez</Jugador>
+            </Falta>
+            <Falta>
+                <Minuto>3</Minuto>
+                <Equipo>Guadalajara</Equipo>
+                <Jugador>Roberto Alvarado</Jugador>
+            </Falta>
+            <Falta>
+                <Minuto>6</Minuto>
+                <Equipo>América</Equipo>
+                <Jugador>Ramón Juárez</Jugador>
+            </Falta>
+            <Falta>
+                <Minuto>6</Minuto>
+                <Equipo>Guadalajara</Equipo>
+                <Jugador>Érick Gutiérrez</Jugador>
+            </Falta>
+            <Falta>
+                <Minuto>8</Minuto>
+                <Equipo>América</Equipo>
+                <Jugador>Leo Suárez</Jugador>
+            </Falta>
+            <Falta>
+                <Minuto>8</Minuto>
+                <Equipo>Guadalajara</Equipo>
+                <Jugador>Alexis Vega</Jugador>
+            </Falta>
+            <Falta>
+                <Minuto>11</Minuto>
+                <Equipo>América</Equipo>
+                <Jugador>Jonathan dos Santos</Jugador>
+            </Falta>
+            <Falta>
+                <Minuto>11</Minuto>
+                <Equipo>Guadalajara</Equipo>
+                <Jugador>Ricardo Marín</Jugador>
+            </Falta>
+        </Faltas>
+        <Cambios>
+            <Cambio>
+                <Minuto>84</Minuto>
+                <Sale>Julián Quiñones</Sale>
+                <Entra>Richard Sánchez</Entra>
+                <Equipo>América</Equipo>
+            </Cambio>
+            <Cambio>
+                <Minuto>84</Minuto>
+                <Sale>Julián Quiñones</Sale>
+                <Entra>Richard Sánchez</Entra>
+                <Equipo>América</Equipo>
+            </Cambio>
+            <Cambio>
+                <Minuto>84</Minuto>
+                <Sale>Jonathan dos Santos</Sale>
+                <Entra>Julián Rodríguez</Entra>
+                <Equipo>América</Equipo>
+            </Cambio>
+            <Cambio>
+                <Minuto>81</Minuto>
+                <Sale>Rubén González</Sale>
+                <Entra>Yael Padilla</Entra>
+                <Equipo>Guadalajara</Equipo>
+            </Cambio>
+            <Cambio>
+                <Minuto>81</Minuto>
+                <Sale>Cristian Calderón</Sale>
+                <Entra>Juan Brigido</Entra>
+                <Equipo>Guadalajara</Equipo>
+            </Cambio>
+            <Cambio>
+                <Minuto>77</Minuto>
+                <Sale>Ricardo Marín</Sale>
+                <Entra>Ronaldo Cisneros</Entra>
+                <Equipo>Guadalajara</Equipo>
+            </Cambio>
+            <Cambio>
+                <Minuto>75</Minuto>
+                <Sale>Diego Valdés</Sale>
+                <Entra>Salvador Reyes</Entra>
+                <Equipo>América</Equipo>
+            </Cambio>
+            <Cambio>
+                <Minuto>75</Minuto>
+                <Sale>Leo Suárez</Sale>
+                <Entra>Álex Zendejas</Entra>
+                <Equipo>América</Equipo>
+            </Cambio>
+        </Cambios>
+        <EquipoGanador>América</EquipoGanador>
+    </Partido>
+</PartiditoDeFut>

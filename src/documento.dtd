@@ -1,0 +1,25 @@
+<!DOCTYPE PartiditoDeFut [
+        <!ELEMENT PartiditoDeFut (Fecha|Partido)*>
+        <!ELEMENT Fecha (#PCDATA)>
+        <!ELEMENT Partido (EquiposDisputados|Alineaciones|Marcador|Goles|Faltas|Cambios|EquipoGanador)*>
+        <!ELEMENT EquiposDisputados (Equipo1|Equipo2)*>
+        <!ELEMENT Equipo1 (#PCDATA)>
+        <!ELEMENT Equipo2 (#PCDATA)>
+        <!ELEMENT Alineaciones (Alineacion)*>
+        <!ELEMENT Alineacion (Equipo|Formacion|Jugadores)*>
+        <!ELEMENT Equipo (#PCDATA)>
+        <!ELEMENT Formacion (#PCDATA)>
+        <!ELEMENT Jugadores (Jugador)*>
+        <!ELEMENT Jugador (#PCDATA)>
+        <!ELEMENT Marcador (#PCDATA)>
+        <!ELEMENT Goles (Gol)*>
+        <!ELEMENT Gol (Jugador|Minuto|Equipo)*>
+        <!ELEMENT Minuto (#PCDATA)>
+        <!ELEMENT Faltas (Falta)*>
+        <!ELEMENT Falta (Minuto|Equipo|Jugador)*>
+        <!ELEMENT Cambios (Cambio)*>
+        <!ELEMENT Cambio (Minuto|Sale|Entra|Equipo)*>
+        <!ELEMENT Sale (#PCDATA)>
+        <!ELEMENT Entra (#PCDATA)>
+        <!ELEMENT EquipoGanador (#PCDATA)>
+        ]>
